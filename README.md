@@ -14,4 +14,4 @@ F7 - Reset Control Point
 
 This script is useful when farming the control point Navy Plaza. After clearing the hostiles and returning to the fountain, press F5 when the reinforcements are about 60-70 meters away, and press F6 after the exp is settled.
 
-#### 1.2版本使用AHK v1.1 编写，目前计划使用 AHK v2.0 重写，将添加连点器功能  
+#### v1版本使用AHK v1.1 编写，目前计划使用 AHK v2.0 重写，将添加连点器功能  
