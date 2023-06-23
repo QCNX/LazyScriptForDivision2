@@ -1,5 +1,8 @@
 # 全境封锁2懒人脚本 | LazyScript for Tom Clancy's The Division 2
 
+#### 目前最稳定的版本为v1.2  
+#### The most stable version for now is v1.2
+
 ### 使用说明  
 F5 - 切换五政令  
 F6 - 切换五政令并重置控制点  
