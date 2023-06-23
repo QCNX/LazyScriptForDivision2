@@ -1,7 +1,7 @@
 #Requires AutoHotkey v1.1
 #SingleInstance
 
-MsgBox, , Division 2 LazyScript v1.3  by QCNX, 
+MsgBox, , Division 2 LazyScript v1  by QCNX, 
     (
 
     脚本已在后台启动，可通过托盘区图标关闭或暂停。
